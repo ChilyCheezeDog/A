@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "[checkclicker.chilycheezedevel.edu.mit.scratch]"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Check Clicker</name>
+
+    <description>
+        Click the check, buy the items, and make your way to the top!
+    </description>
+
+    <author href="http://scratch.mit.edu/users/[ChilyCheezeDev]" email="[chilycheezedoggd@gmail.com]">
+        [ChiyCheezeDev]
+    </author>
+<icon src="icon.png" />
+
+</widget>
